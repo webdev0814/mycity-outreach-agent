@@ -26,7 +26,7 @@
 
 ### Running / Starting
 ```bash
-python <entrypoint>.py
+python3 <entrypoint>.py
 ```
 
 ### Testing / Verification
@@ -38,6 +38,9 @@ python <entrypoint>.py
 
 ## 4. Recent Commit Activity (Where We Left Off)
 The most recent commits show the latest development trajectory:
+- `[4a875ac]` (2026-09-04) docs: add comprehensive agent briefing (AGENTS.md, GEMINI.md, CLAUDE.md)
+- `[39553a3]` (2026-09-04) docs: add comprehensive agent briefing (AGENTS.md, GEMINI.md, CLAUDE.md)
+- `[46b2c61]` (2026-09-04) docs: add comprehensive agent briefing (AGENTS.md, GEMINI.md, CLAUDE.md)
 - `[1918f71]` (2026-09-04) docs: add comprehensive agent briefing (AGENTS.md, GEMINI.md, CLAUDE.md)
 - `[818ad87]` (2026-09-04) docs: add comprehensive agent briefing (AGENTS.md, GEMINI.md, CLAUDE.md)
 - `[b7dea55]` (2026-09-04) docs: add comprehensive agent briefing (AGENTS.md, GEMINI.md, CLAUDE.md)
@@ -45,9 +48,6 @@ The most recent commits show the latest development trajectory:
 - `[851df06]` (2026-09-03) Sanitize and reposition portfolio documentation
 - `[3f3c2fc]` (2026-06-12) Remove PII and add MIT license
 - `[8b71200]` (2026-06-12) Implement automated outreach email sender with throttling, limits, and Task Scheduler configurator
-- `[307fc59]` (2026-06-12) Optimize Google Sheets write logic using batchUpdate and add --sync support
-- `[185cbdd]` (2026-06-12) Implement email verification tool (verify_emails.py) with Abstract API integration and local DNS MX checks
-- `[2f6dcc8]` (2026-06-04) Implement automated email bounce purger with unified OAuth scopes and robust matching
 
 ---
 
